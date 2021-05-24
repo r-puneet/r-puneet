@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Puneet
-- 👀 I’m interested in Pyhton programming and Data Visualisation
+- 👀 I’m interested in Python programming and Data Visualisation
 - 🌱 I’m currently learning Backend Developemnt
 
 <!---
