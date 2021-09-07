@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Puneet
-- 👀 I’m interested in Python programming and Data Visualisation
-- 🌱 I’m currently learning Backend Developemnt
+- 🧑🏻‍💻 Quantitative Developer
+- 🌱 Progressive learner
+- 🕹 FPS games are love
 
 <!---
 r-puneet/r-puneet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
