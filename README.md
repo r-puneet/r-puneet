@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Puneet
-- 🧑🏻‍💻 Quantitative Developer
+- 🧑🏻‍💻 Developer
 - 🌱 Progressive learner
 - 🕹 FPS games are love
 
