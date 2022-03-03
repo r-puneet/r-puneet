@@ -21,11 +21,11 @@
     <br><br>
     - 🌱 Progressive learner
     <br><br>
-    Worked with Python
+    - 💼 Worked with Python
     <br><br>
     - 🕹 FPS games are love
     <br><br>
-    & a lot of more stuff 😄
+    - 🕶 & a lot of more stuff 😄
   </samp>
 </p>
 
